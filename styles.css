@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #89c3e0;
+    margin: 0;
+}
+
+h1 {
+    color: #6d6d6d;
+}
+
+canvas {
+    border: 2px solid rgb(0, 0, 0);
+    background-color: white;
+    margin: 20px 0;
+}
+
+#coordinates {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #4c4c4c;
+}
