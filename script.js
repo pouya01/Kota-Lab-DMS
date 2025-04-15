@@ -1,6 +1,6 @@
 const canvas = document.getElementById('squareCanvas');
 const ctx = canvas.getContext('2d');
-
+// asdfkasdf
 // Square properties
 const size = 400; // Square size in pixels (reduced from 600 to 400)
 const gridSize = 200; // Represents -100 to 100 on each side
